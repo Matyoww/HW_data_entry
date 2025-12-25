@@ -1,5 +1,7 @@
 # HW Catalog Entry
 
+This is a personal vibe-code mini-project to cataloging and inventory system for my hotwheels collection.
+
 Run the Streamlit app:
 
 ```
@@ -11,6 +13,5 @@ Required fields:
 - Name
 - Series
 - Rarity
-- Year
 
 For `Exclusive` rarity, `Exclusive Description` is also required.
